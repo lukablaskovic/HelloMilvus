@@ -1,5 +1,6 @@
 # HelloMilvus
 ## Booting Milvus standalone and creating first collection
+### Podešavanje Milvus baze podataka - vježba za potrebe izrade završnog rada
 
 ### 1. Initialize a Node.js Project
 `npm init`
