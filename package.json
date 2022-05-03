@@ -1,0 +1,23 @@
+{
+  "name": "hellomilvus",
+  "version": "1.0.0",
+  "description": "HelloMilvus, first Milvus database collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukablaskovic/HelloMilvus.git"
+  },
+  "author": "lukablaskovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukablaskovic/HelloMilvus/issues"
+  },
+  "homepage": "https://github.com/lukablaskovic/HelloMilvus#readme",
+  "dependencies": {
+    "@zilliz/milvus2-sdk-node": "^2.0.2",
+    "typescript": "^4.6.4"
+  }
+}
